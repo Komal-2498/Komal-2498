@@ -47,3 +47,8 @@ Recently, I completed a Post Graduate Program in **Data Science** from **Purdue 
 ## 🤝 Connect With Me
 LinkedIn: **www.linkedin.com/in/komal-mane-55b4a286**  
 Email: **komane07@gmail.com**
+
+---
+
+Thanks for visiting my GitHub! 😊  
+Feel free to explore and reach out — always happy to connect and learn together.
